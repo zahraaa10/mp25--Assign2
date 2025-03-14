@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Typing Speed Test App</string>
+    <string name="hint_text">Mulai mengetik di sini...</string>
+    <string name="target_text">Mata kuliah pemrograman bergerak mempelajari tentang konsep dasar pemrograman bergerak, sistem operasi perangkat bergerak, dan lingkungan pengembangannya. Dalam perkuliahan akan diajarkan bagaimana membangun perangkat bergerak yang terdiri dari antarmuka, pemrosesan data, sampai dengan pengaksesan perangkat keras dan library external</string>
+</resources>
